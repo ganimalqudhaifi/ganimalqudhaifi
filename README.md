@@ -2,17 +2,8 @@
 
 💻 **Front-End Developer & AI-Powered Web Solutions Builder**  
 🚀 Experienced in **Next.js, Firebase, AI, and RAG-based Applications**  
-
-### 🌱 I’m currently learning  
-- **React Native** for mobile development  
-- **Python for Machine Learning & Data Science**  
-- **Angular** for front-end development
-
-### 👯 I’m looking to collaborate on  
-- AI-enhanced web applications  
-- Open-source projects related to **Next.js, Firebase, and AI**  
-- Freelance opportunities in front-end and full-stack web development
-
+🌱 I’m currently learning: **React Native | Python (ML & Data Science) | Angular**  
+👯 I’m looking to collaborate on: **AI apps | Open-source (Next.js, Firebase, AI) | Freelance (Front-end & Full-stack)**  
 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/ganim-alqudhaifi) | [Website](https://ganimalqudhaifi.my.id) | ✉️ **Email:** ganimalqudhaifi@gmail.com 
 
 ### 💻 Tech Stack:
